@@ -5,6 +5,10 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=doyoonear&background=312e2e&ring=e9edbd&fire=e56e1c&sideNums=e9edbd&currStreakNum=e9edbd&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=e4e8b0&hide_border=true" width=49.2%/>
 </a>
 
+[![Visits Badge](https://badges.pufler.dev/visits/doyoonear/doyoonear?style=flat-square&logo=Aseprite&logoColor=white&color=e4e8b0)](https://badges.pufler.dev)
+
+
+
 
 ### 👩‍💻 Tools & Lang
 <p align="left">
