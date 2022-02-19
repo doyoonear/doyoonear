@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=doyoonear&show_icons=true&hide_border=true&bg_color=312e2e&icon_color=e4e8b0&title_color=e9edbd&text_color=fff&count_private=true&hide=contribs" width=49.2% />
+  <img src="https://github-readme-stats.vercel.app/api?username=doyoonear&show_icons=true&hide_border=true&bg_color=312e2e&icon_color=e4e8b0&title_color=e9edbd&text_color=fff&count_private=true" width=49.2% />
 </a>
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=doyoonear&background=312e2e&ring=e9edbd&fire=e56e1c&sideNums=e9edbd&currStreakNum=e9edbd&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=e4e8b0&hide_border=true" width=49.2%/>
