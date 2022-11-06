@@ -5,13 +5,6 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=doyoonear&background=312e2e&ring=e9edbd&fire=e56e1c&sideNums=e9edbd&currStreakNum=e9edbd&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=e4e8b0&hide_border=true" width=49.2%/>
 </a>
 
-<p align="center">
-<a href="https://badges.pufler.dev">
-  <img src="https://badges.pufler.dev/visits/doyoonear/doyoonear?style=flat-square&logo=Aseprite&logoColor=white&color=e4e8b0" width=7%/>
-</a>
-</p>
-
-
 <p align="left">
   <h3>👩‍💻 Tools & Lang</h3>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
