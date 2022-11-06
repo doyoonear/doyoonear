@@ -6,11 +6,6 @@
 </a>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyoonear&layout=compact&theme=darcula&bg_color=312e2e&hide_border=true&title_color=e9edbd" width=40%/>
-</a>
-</p>
-<p align="center">
 <a href="https://badges.pufler.dev">
   <img src="https://badges.pufler.dev/visits/doyoonear/doyoonear?style=flat-square&logo=Aseprite&logoColor=white&color=e4e8b0" width=7%/>
 </a>
